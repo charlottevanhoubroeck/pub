@@ -2720,9 +2720,9 @@ output {
   font-size: 14px;
   line-height: 1.42857143;
   color: #373737;
-  background-color: #f6f6f6;
+  background-color: #fcfced;
   background-image: none;
-  border: 2px solid #f6f6f6;
+  border: 2px solid #fcfced;
   border-radius: 0px;
   -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
