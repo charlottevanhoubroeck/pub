@@ -3260,8 +3260,8 @@ fieldset[disabled] .btn {
   box-shadow: none;
 }
 .btn-default {
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #fcfced;
+  color: #fcfced;
   background-color: transparent;
   border-color: transparent;
 }
@@ -3868,8 +3868,8 @@ input[type="button"].btn-block {
 }
 .btn-default.inverse,
 .btn-inverse .btn-default {
-  border-color: #fff;
-  color: #fff;
+  border-color: #fcfced;
+  color: #fcfced;
 }
 .btn-default.inverse:hover,
 .btn-inverse .btn-default:hover,
