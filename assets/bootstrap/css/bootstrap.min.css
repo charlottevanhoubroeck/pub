@@ -1374,7 +1374,7 @@ a.text-danger:focus {
   color: #f74b21;
 }
 .text-white {
-  color: #ffffff;
+  color: #fcfced;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -3239,7 +3239,7 @@ select[multiple].form-group-lg .form-control {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #ffffff;
+  color: #fcfced;
   text-decoration: none;
 }
 .btn:active,
